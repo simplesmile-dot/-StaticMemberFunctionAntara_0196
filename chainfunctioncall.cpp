@@ -1,4 +1,4 @@
-#include <iostream> //1
+#include <iostream> //2
 using namespace std;
 class buku{
     string judul;
